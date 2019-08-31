@@ -1,0 +1,10 @@
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\bin\Debug\CSharpSocketSample.exe.config
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\bin\Debug\CSharpSocketSample.exe
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\bin\Debug\CSharpSocketSample.pdb
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.csprojAssemblyReference.cache
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.Form1.resources
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.Properties.Resources.resources
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.csproj.GenerateResource.cache
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.csproj.CoreCompileInputs.cache
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.exe
+C:\Dev\CSharpSocketSample\CSharpSocketSample\CSharpSocketSample\obj\Debug\CSharpSocketSample.pdb
